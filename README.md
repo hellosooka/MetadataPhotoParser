@@ -1,4 +1,2 @@
-# MetadataPhotoParser
-
 # Description
-Old project
+My old project from 2017
